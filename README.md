@@ -3,7 +3,7 @@
 ![CI/CD](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
 
 A small agentic RAG (Retrieval-Augmented Generation) API with a full CI/CD
-pipeline: lint + test + build on every push, auto-deploy to Railway  on
+pipeline: lint + test + build on every push,auto-deploy to Railway  on
 `main`.
 
 
