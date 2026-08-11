@@ -6,8 +6,6 @@ A small agentic RAG (Retrieval-Augmented Generation) API with a full CI/CD
 pipeline: lint + test + build on every push, auto-deploy to Railway on
 `main`.
 
-> Replace `YOUR_USERNAME/YOUR_REPO` above with your actual GitHub repo path
-> once you push, or the badge won't resolve.
 
 ## How it works
 
