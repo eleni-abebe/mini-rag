@@ -7,7 +7,7 @@ pipeline: lint + test + build on every push, auto-deploy to Railway  on
 `main`.
 
 
-## How it works
+## How it  works
 
 ```
 query --> [auth check] --> [agent loop] --> answer
