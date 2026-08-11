@@ -50,7 +50,7 @@ curl -X POST localhost:8000/query -d '{"question":"Where is the Eiffel Tower?"}'
 pytest tests/ -v
 ```
 
-10 tests covering chunking, embeddings, similarity order, and the auth flow.
+10 tests covering chunking,embeddings, similarity order, and the auth flow.
 
 ## CI/CD pipeline
 
